@@ -30,7 +30,7 @@ En el siguiente enlace pueden encontrar las diapositivas que muestran el equipo 
 
 ## Descripción
 
-La base de datos ha sido desarrollada para proporcionar la infraestructura de datos esencial para una aplicación de banca digital, permitiendo la gestión eficiente de los clientes, productos financieros, transacciones y cartera. Incluye tablas normalizadas y relaciones para asegurar integridad referencial y optimizar consultas de alto rendimiento.
+El siguiente enlace te llevará a la presentación del proyecto completo CENTRO ESTÉTICO NATURAL SKIN + donde vas a encontrar las herramientas usadas en el manejo de los datos, las conslusiones que arrojó el análisis y la estrategia propuesta por el grupo de trabajo.
 
 ## Tecnologías Utilizadas
 
