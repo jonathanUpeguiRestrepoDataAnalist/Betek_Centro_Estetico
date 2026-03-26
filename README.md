@@ -1,6 +1,6 @@
 
 
-> ![Natural skin +](./centro_estetico_inicio.png)
+> ![Natural skin +](./centro_estetico_inicio.jpeg)
 
 # Centro Estetico - Gestión de Procedimientos, Citas y Productos
 
