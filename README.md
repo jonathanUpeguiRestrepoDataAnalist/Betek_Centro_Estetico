@@ -1,6 +1,6 @@
 
 
-> ![Diagrama ER](./modelo_relacional.png)
+> ![Natural skin +](./centro_estetico_inicio.png)
 
 # Centro Estetico - Gestión de Procedimientos, Citas y Productos
 
