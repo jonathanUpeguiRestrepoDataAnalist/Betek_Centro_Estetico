@@ -46,6 +46,6 @@ Trabajamos la base de datos para proporcionar la infraestructura esencial en la 
 
 ## Tablero de análisis
 
-En el enlace a continuación, se podrá visualizar el dashboard del tablero en power BI, el cual nos arroja el estado actual del centro estético y del cual generamos una propuesta de estrategias orientadas a optimizar su operación, mejorar la experiencia del cliente y ser más rentable. 
+En el enlace a continuación, se podrá visualizar el dashboard del tablero en power BI, el cual nos arroja el estado actual del centro estético, a partir del cual generamos una propuesta de estrategias orientadas a optimizar su operación, mejorar la experiencia del cliente y ser más rentable. 
 
 > [Tablero Centro Estetico](https://app.powerbi.com/groups/me/reports/26744d89-2b1c-4b92-b9e7-ef822b6630fe/9bbd950644177d44b4ee?experience=power-bi)
