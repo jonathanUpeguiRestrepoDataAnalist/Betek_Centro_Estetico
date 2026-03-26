@@ -39,7 +39,7 @@ La base de datos ha sido desarrollada para proporcionar la infraestructura de da
 
 ### Diagrama Relacional
 
-> ![Diagrama ER](./modelo relacional.png)
+> ![Diagrama ER](./modelo_relaciona)
 
 ## Tablero de análisis
 
