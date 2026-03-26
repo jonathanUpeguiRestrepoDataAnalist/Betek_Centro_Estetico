@@ -30,7 +30,7 @@ El siguiente enlace te llevará a la presentación del proyecto completo CENTRO 
 
 ## Descripción
 
-La base de datos ha sido desarrollada para proporcionar la infraestructura de datos esencial para la gestión de un centro estético, permitiendo administrar de manera eficiente la información de clientes, servicios, productos, citas y especialistas. Incluye tablas normalizadas y relaciones que garantizan la integridad de los datos y optimizan el análisis para la toma de decisiones estratégicas orientadas a mejorar la rentabilidad del negocio.
+Trabajamos la base de datos para proporcionar la infraestructura esencial en la gestión del centro estético, permitiendo administrar de manera eficiente la información de clientes, servicios, productos, citas y especialistas. Incluye tablas normalizadas y relaciones que garantizan la integridad de los datos y optimizan el análisis para la toma de decisiones estratégicas orientadas a optimizar su operación, mejorar la experiencia del cliente y ser más rentable.
 
 ## Tecnologías Utilizadas
 
@@ -46,6 +46,6 @@ La base de datos ha sido desarrollada para proporcionar la infraestructura de da
 
 ## Tablero de análisis
 
-En el enlace a continuación se podrá visualizar el tablero de análisis creado
+En el enlace a continuación, se podrá visualizar el dashboard del tablero en power BI, el cual nos arroja el estado actual del centro estético y del cual generamos una propuesta de estrategias orientadas a optimizar su operación, mejorar la experiencia del cliente y ser más rentable. 
 
 > [Tablero Centro Estetico](https://app.powerbi.com/groups/me/reports/26744d89-2b1c-4b92-b9e7-ef822b6630fe/9bbd950644177d44b4ee?experience=power-bi)
