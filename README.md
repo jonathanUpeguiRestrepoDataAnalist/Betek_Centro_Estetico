@@ -24,7 +24,7 @@ El diseño debe permitir registrar el detalle del consumo exacto de materiales e
 
 ## Presentación del proyecto
 
-En el siguiente enlace pueden encontrar las diapositivas que muestran el equipo de trabajo y la respectiva información de contacto, el paso a paso realizado, las conslusiones obtenidas y las recomendaciones estrategicas.
+El siguiente enlace te llevará a la presentación del proyecto completo CENTRO ESTÉTICO NATURAL SKIN + donde vas a encontrar las herramientas usadas en el manejo de los datos, las conslusiones que arrojó el análisis y la estrategia propuesta por el grupo de trabajo.
 
 > [Presentacion diapositivas](https://uao-my.sharepoint.com/:p:/r/personal/johana_mar_barrada_uao_edu_co/_layouts/15/Doc.aspx?sourcedoc=%7B48FFF4FC-3574-4B9B-8451-95A584DE94B5%7D&file=PRESENTACI%C3%93N%201.pptx&action=edit&mobileredirect=true&wdOrigin=SEARCHENGINE.GOOGLE%2CAPPHOME-WEB.UNAUTH%2CAPPHOME-WEB.SHELL.SIGNIN%2CAPPHOME-WEB.BANNER.UPLOAD&wdPreviousSession=e759b0e7-d02c-4af7-82fb-703a8751c9d0&wdPreviousSessionSrc=AppHomeWeb&ct=1774499977741)
 
