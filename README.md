@@ -30,7 +30,7 @@ El siguiente enlace te llevará a la presentación del proyecto completo CENTRO 
 
 ## Descripción
 
-El siguiente enlace te llevará a la presentación del proyecto completo CENTRO ESTÉTICO NATURAL SKIN + donde vas a encontrar las herramientas usadas en el manejo de los datos, las conslusiones que arrojó el análisis y la estrategia propuesta por el grupo de trabajo.
+La base de datos ha sido desarrollada para proporcionar la infraestructura de datos esencial para la gestión de un centro estético, permitiendo administrar de manera eficiente la información de clientes, servicios, productos, citas y especialistas. Incluye tablas normalizadas y relaciones que garantizan la integridad de los datos y optimizan el análisis para la toma de decisiones estratégicas orientadas a mejorar la rentabilidad del negocio.
 
 ## Tecnologías Utilizadas
 
