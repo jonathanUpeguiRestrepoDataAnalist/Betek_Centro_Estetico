@@ -45,4 +45,4 @@ La base de datos ha sido desarrollada para proporcionar la infraestructura de da
 
 En el enlace a continuación se podrá visualizar el tablero de análisis creado
 
-> [Análisis de datos BankTech](https://app.powerbi.com/view?r=eyJr
+> [Análisis de datos BankTech](https://app.powerbi.com/groups/me/reports/26744d89-2b1c-4b92-b9e7-ef822b6630fe/9bbd950644177d44b4ee?experience=power-bi)
