@@ -40,13 +40,19 @@ Trabajamos la base de datos para proporcionar la infraestructura esencial en la 
 
 ## Esquema de Base de Datos
 
+### Código de SQL
+
+En este enlace encontraras el código de creación de la base de datos y las tablas relacionales con sus respectivos campos y tipos de datos correspondientes para el centro estético en MySQL.
+
+>[script_SQL_centro_estetico](https://raw.githubusercontent.com/jonathanUpeguiRestrepoDataAnalist/Betek_Centro_Estetico/refs/heads/main/SCRIPT%20SQL%20CENTRO%20EST%C3%89TICO.sql)
+
 ### Diagrama Relacional
 
 > ![Diagrama ER](./modelo_relacional.png)
 
 ### Código de Python 
 
-Este código nos lleva a la carga de datos ficticios de las tablas que conforman la base de datos creada para el centro estetico por medio de la libreria faker.
+Este enlace contiene el código creado que nos lleva a la carga de datos ficticios de las tablas que conforman la base de datos creada para el centro estético por medio de la librería faker.
 
 > [script_python_centro_estetico](https://raw.githubusercontent.com/jonathanUpeguiRestrepoDataAnalist/Betek_Centro_Estetico/refs/heads/main/SCRIPT%20PYTHON%20CENTRO%20ESTETICO.ipynb)
 
