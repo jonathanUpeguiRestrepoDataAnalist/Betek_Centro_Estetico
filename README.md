@@ -2,7 +2,7 @@
 
 > ![Natural skin +](./centro_estetico_inicio.jpeg)
 
-# Centro Estetico - Gestión de Procedimientos, Citas y Productos
+# Centro Estético - Gestión de Procedimientos, Citas y Productos
 
 Diseño de una base de datos para un Centro Estético Integral que ofrece diversos procedimientos, vende productos y requiere una gestión detallada de citas y personal. 
 Clientes: Información básica, historial de visitas, alergias o condiciones médicas relevantes para los tratamientos, y su programa de fidelización. 
