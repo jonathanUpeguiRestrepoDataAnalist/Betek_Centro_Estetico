@@ -44,6 +44,12 @@ Trabajamos la base de datos para proporcionar la infraestructura esencial en la 
 
 > ![Diagrama ER](./modelo_relacional.png)
 
+### Código de Python 
+
+Este código nos lleva a la carga de datos ficticios de las tablas que conforman la base de datos creada para el centro estetico por medio de la libreria faker.
+
+> [script_python_centro_estetico](https://raw.githubusercontent.com/jonathanUpeguiRestrepoDataAnalist/Betek_Centro_Estetico/refs/heads/main/SCRIPT%20PYTHON%20CENTRO%20ESTETICO.ipynb)
+
 ## Tablero de análisis
 
 En el enlace a continuación, se podrá visualizar el dashboard del tablero en power BI, el cual nos arroja el estado actual del centro estético, a partir del cual generamos una propuesta de estrategias orientadas a optimizar su operación, mejorar la experiencia del cliente y ser más rentable. 
